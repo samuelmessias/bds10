@@ -17,6 +17,14 @@
   margin-bottom: 20px;
 }
 
+.department-crud-select__control {
+  border-radius: 10px !important;
+  font-size: 1em;
+  letter-spacing: -0.015em;
+  color: #263238;
+  height: 50px;
+}
+
 @media (min-width: 576px) {
   .btn-crud-add {
     max-width: 320px;
